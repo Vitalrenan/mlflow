@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/renan.vital/Documents/Pessoal/ml_flow/mlflow/notebooks/mlruns/154567500677710227/b41234fe5bab4e659168242897a9fd65/artifacts
+end_time: 1697204958551
+entry_point_name: ''
+experiment_id: '154567500677710227'
+lifecycle_stage: active
+run_id: b41234fe5bab4e659168242897a9fd65
+run_name: abundant-gnu-647
+run_uuid: b41234fe5bab4e659168242897a9fd65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697204890109
+status: 3
+tags: []
+user_id: renan.vital

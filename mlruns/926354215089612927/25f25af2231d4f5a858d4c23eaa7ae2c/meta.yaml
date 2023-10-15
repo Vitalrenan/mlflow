@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/renan.vital/Documents/Pessoal/ml_flow/mlflow/mlruns/926354215089612927/25f25af2231d4f5a858d4c23eaa7ae2c/artifacts
+end_time: 1697216107589
+entry_point_name: ''
+experiment_id: '926354215089612927'
+lifecycle_stage: active
+run_id: 25f25af2231d4f5a858d4c23eaa7ae2c
+run_name: amazing-duck-467
+run_uuid: 25f25af2231d4f5a858d4c23eaa7ae2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697216083367
+status: 3
+tags: []
+user_id: renan.vital

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/renan.vital/Documents/Pessoal/ml_flow/mlflow/mlruns/926354215089612927/8036b30765e543519a2bd454e41e664c/artifacts
+end_time: 1697233364272
+entry_point_name: ''
+experiment_id: '926354215089612927'
+lifecycle_stage: active
+run_id: 8036b30765e543519a2bd454e41e664c
+run_name: unruly-hawk-584
+run_uuid: 8036b30765e543519a2bd454e41e664c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697233348906
+status: 3
+tags: []
+user_id: renan.vital

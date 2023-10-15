@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1697232231416
+current_stage: None
+description: ''
+last_updated_timestamp: 1697232231416
+name: pred_test
+run_id: 25f25af2231d4f5a858d4c23eaa7ae2c
+run_link: ''
+source: file:///C:/Users/renan.vital/Documents/Pessoal/ml_flow/mlflow/mlruns/926354215089612927/25f25af2231d4f5a858d4c23eaa7ae2c/artifacts/model
+status: READY
+status_message: null
+user_id: null
+version: 1
